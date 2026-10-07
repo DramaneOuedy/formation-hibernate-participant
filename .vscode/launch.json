@@ -1,0 +1,77 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "TP1 - Cycle de vie",
+      "request": "launch",
+      "mainClass": "com.formation.gestion.GestionApplication",
+      "projectName": "gestion",
+      "args": "--spring.profiles.active=tp1"
+    },
+    {
+      "type": "java",
+      "name": "TP2 - Mapping avance",
+      "request": "launch",
+      "mainClass": "com.formation.gestion.GestionApplication",
+      "projectName": "gestion",
+      "args": "--spring.profiles.active=tp2"
+    },
+    {
+      "type": "java",
+      "name": "TP3 - Relations",
+      "request": "launch",
+      "mainClass": "com.formation.gestion.GestionApplication",
+      "projectName": "gestion",
+      "args": "--spring.profiles.active=tp3"
+    },
+    {
+      "type": "java",
+      "name": "TP4 - Requetes JPQL",
+      "request": "launch",
+      "mainClass": "com.formation.gestion.GestionApplication",
+      "projectName": "gestion",
+      "args": "--spring.profiles.active=tp4"
+    },
+    {
+      "type": "java",
+      "name": "TP5 - Transactions",
+      "request": "launch",
+      "mainClass": "com.formation.gestion.GestionApplication",
+      "projectName": "gestion",
+      "args": "--spring.profiles.active=tp5"
+    },
+    {
+      "type": "java",
+      "name": "TP6 - Performance N+1",
+      "request": "launch",
+      "mainClass": "com.formation.gestion.GestionApplication",
+      "projectName": "gestion",
+      "args": "--spring.profiles.active=tp6"
+    },
+    {
+      "type": "java",
+      "name": "TP7 - Cache",
+      "request": "launch",
+      "mainClass": "com.formation.gestion.GestionApplication",
+      "projectName": "gestion",
+      "args": "--spring.profiles.active=tp7"
+    },
+    {
+      "type": "java",
+      "name": "TP8 - Spring Data",
+      "request": "launch",
+      "mainClass": "com.formation.gestion.GestionApplication",
+      "projectName": "gestion",
+      "args": "--spring.profiles.active=tp8"
+    },
+    {
+      "type": "java",
+      "name": "Mini-projet (module 9)",
+      "request": "launch",
+      "mainClass": "com.formation.gestion.GestionApplication",
+      "projectName": "gestion",
+      "args": "--spring.profiles.active=projet"
+    }
+  ]
+}
